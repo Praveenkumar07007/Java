@@ -20,7 +20,7 @@ class Butterfly {
             System.out.println();
         }
 
-        
+
         for(int i = 0; i < n - 1; i++) {
             for(int j = 0; j < 2 * n - 1; j++) {
                 if (j >= i + 1 && j < 2 * n - i - 2) {
@@ -33,3 +33,4 @@ class Butterfly {
         }
     }
 }
+
