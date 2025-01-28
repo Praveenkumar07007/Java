@@ -27,6 +27,7 @@ public class CapacityBehaviour {
     System.out.println(sbf2.capacity()); // Prints 11
     sbf2.reverse();
     System.out.println(sbf2);
+
     
   }
 }
