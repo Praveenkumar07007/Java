@@ -53,25 +53,11 @@ Welcome to the **Java Codes Repository**! This repository contains implementatio
 - Lambda Expressions & Functional Interfaces
 - Streams API
 - Design Patterns in Java (Singleton, Factory, Observer, etc.)
-- Java Security & Cryptography
-
-## 📂 Repository Structure
-```
-Java-All-Codes/
-│── Core-Java/
-│── OOP/
-│── DSA/
-│── JDBC/
-│── Frameworks/
-│── Web-Development/
-│── Advanced-Java/
-│── README.md
-```
 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/java-all-codes.git
+   git clone https://github.com/praveenkumar07007/JAVA.git
    ```
 2. Open the project in your preferred IDE (Eclipse, IntelliJ, VS Code).
 3. Compile and run Java programs using:
