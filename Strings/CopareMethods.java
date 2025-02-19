@@ -2,7 +2,7 @@ public class CopareMethods {
   public static void main(String args[]){
     String s1 = "Hello World";
     String s2 = "Hello World";
-    String sp = "Hello world";
+    String sp = "Hello World";
     System.out.println(s1.equals(sp));
     System.out.println(s1 == sp);
     System.out.println(s1.equals(s2));
